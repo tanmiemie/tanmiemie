@@ -1,34 +1,36 @@
 # Hi, I am Tania 👋
 
-I am a data scientist building reliable analytics and AI systems that turn messy, real-world data into decisions people can inspect and trust.
+I am a **Product Data Scientist** who turns ambiguous product questions and messy behavioral data into measurable decisions.
 
-My work sits at the intersection of **product analytics, analytics engineering, and applied AI**—with a focus on semantic layers, governed metrics, data quality, RAG/LLM workflows, evaluation, and human-in-the-loop systems.
+I combine product judgment, experimentation, analytics engineering, and applied AI. I care not only about how a system is built, but also **what should be measured, why it matters, and whether the evidence is trustworthy enough to act on**.
 
-## What I am Building
+## What I Do
 
-- 🔭 Auditable analytics agents with governed SQL, data-quality gates, golden evaluations, and explicit abstention
-- 🌱 Reliable RAG systems that combine LLM extraction, structured knowledge, and deterministic reasoning
-- 🛠️ Reusable analytical workflows designed for real-world ambiguity—not just clean demo data
+- 📊 Define product KPIs, funnels, conversion metrics, and decision guardrails
+- 🔍 Diagnose metric changes through segmentation, behavioral analysis, and data-quality investigation
+- 🧪 Design experiments and evaluation frameworks that connect evidence to product decisions
+- 🛠️ Turn repeatable analytical judgment into governed, auditable data and AI systems
 
-## Core Strengths
+## Product and Data Toolkit
 
-| Area | Technologies and practices |
+| Area | Capabilities |
 | --- | --- |
-| **Analytics Systems** | Semantic Layers · Metric Contracts · Data Quality · Identity Resolution |
-| **AI Systems** | RAG · LLM Workflows · Tool-Using Agents · Structured Extraction |
-| **Reliability** | Golden Evals · Regression Testing · Abstention · Human-in-the-Loop |
-| **Engineering** | Python · SQL · SQLite · pandas · pytest · GitHub Actions · JSON Schema · APIs |
+| **Product Analytics** | KPI Design · Funnels · Conversion · Segmentation · Retention · Metric Diagnostics |
+| **Decision Science** | Experimentation · Causal Thinking · Guardrail Metrics · Decision Frameworks |
+| **Data and Analytics** | SQL · Python · pandas · SQLite · Semantic Layers · Data Contracts · Data Quality |
+| **Applied AI** | RAG · LLM Workflows · Tool-Using Agents · Structured Extraction · Human-in-the-Loop |
+| **Reliability** | Golden Evals · Regression Testing · Governed SQL · Traceability · Abstention |
 
 ## Featured Projects
 
 ### [Auditable Ecommerce Analytics Agent](https://github.com/tanmiemie/auditable-ecommerce-analytics-agent)
 
-A reliability-first analytics agent built around semantic contracts, governed SQL, deterministic orchestration, data-quality checks, golden evaluations, and inspectable traces.
+Helps product and business teams answer metric questions with consistent definitions, visible data-quality warnings, and auditable evidence. The system supports funnel and conversion analysis while using a semantic layer, governed SQL, deterministic orchestration, and golden evaluations.
 
 ### [Rental Housing Law Navigator](https://github.com/tanmiemie/global-ai-hackathon-rental-housing-law-navigator)
 
-A hybrid legal RAG system combining LLM-based extraction, JSON Schema rule compilation, three-valued logic, geospatial data, and deterministic evaluation.
+Helps renters navigate complex housing rules by turning fragmented legal information into structured, explainable guidance. The system combines hybrid RAG, LLM extraction, rule-based reasoning, geospatial data, and deterministic evaluation.
 
-## How I Build
+## How I Work
 
-I care about systems that are **auditable, reusable, and honest about uncertainty**. My projects emphasize traceability, explicit metric definitions, realistic data issues, and evaluation—not just polished outputs.
+I start with the **user problem and product decision**, define the metrics and evidence required, and then build the smallest reliable analytical system that can support that decision. My goal is not just a polished output—it is a solution that is useful, auditable, reusable, and honest about uncertainty.
